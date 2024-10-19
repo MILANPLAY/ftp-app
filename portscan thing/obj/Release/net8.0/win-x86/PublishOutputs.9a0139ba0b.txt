@@ -1,0 +1,3 @@
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\publish\win-x86\portscan thing.pdb
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\publish\win-x86\networking.pdb
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\publish\win-x86\portscan thing.exe

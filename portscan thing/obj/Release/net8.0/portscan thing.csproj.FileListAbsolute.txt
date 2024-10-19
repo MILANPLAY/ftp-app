@@ -1,0 +1,27 @@
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\portscan thing.exe
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\portscan thing.deps.json
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\portscan thing.runtimeconfig.json
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\portscan thing.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\portscan thing.pdb
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\Common.Logging.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\Common.Logging.Core.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\System.Net.IPNetwork.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\Makaretu.Dns.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\Makaretu.Dns.Multicast.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\SimpleBase.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\runtimes\linux-arm\lib\netstandard2.0\Tmds.LibC.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\runtimes\linux-arm64\lib\netstandard2.0\Tmds.LibC.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\runtimes\linux-x64\lib\netstandard2.0\Tmds.LibC.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\networking.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\bin\Release\net8.0\networking.pdb
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.AssemblyInfo.cs
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan.73B5FD62.Up2Date
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\refint\portscan thing.dll
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.pdb
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\portscan thing.genruntimeconfig.cache
+C:\Users\milan\source\repos\portscan thing\portscan thing\obj\Release\net8.0\ref\portscan thing.dll
