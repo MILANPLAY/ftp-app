@@ -14,6 +14,6 @@ The **FTP App** is a simple and efficient file transfer application that allows 
 ## Installation
 - Comming soon
 
-### Prerequisites
+### Requirements 
 
 - atleast a potato pc
