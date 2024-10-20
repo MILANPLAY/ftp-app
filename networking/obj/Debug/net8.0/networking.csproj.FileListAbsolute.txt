@@ -1,0 +1,11 @@
+C:\Users\milan\source\repos\networking\networking\bin\Debug\net8.0\networking.deps.json
+C:\Users\milan\source\repos\networking\networking\bin\Debug\net8.0\networking.dll
+C:\Users\milan\source\repos\networking\networking\bin\Debug\net8.0\networking.pdb
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.AssemblyInfo.cs
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.dll
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\refint\networking.dll
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\networking.pdb
+C:\Users\milan\source\repos\networking\networking\obj\Debug\net8.0\ref\networking.dll

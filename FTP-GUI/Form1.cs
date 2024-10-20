@@ -21,8 +21,10 @@ namespace FTP_GUI
                     Dock = DockStyle.Top,
                     Size = new Size(140, 48),
                     BackColor = Color.White,
-                    FlatStyle = FlatStyle.Flat
+                    FlatStyle = FlatStyle.Flat,
                 };
+                buttonAddLabel.Click += DeviceSelect;
+               
 
                 Device_List.Controls.Add(buttonAddLabel);
             }
@@ -30,7 +32,23 @@ namespace FTP_GUI
 
         private async void Form1_Load(object sender, EventArgs e)
         {
-            RefreshDevices(64000);
+            await RefreshDevices(64000);
+
+        }
+
+        private void Device_InfoL_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DeviceSelect(object sender, EventArgs e)
+        {
+            Button clickedButton = sender as Button;
+
+            if (clickedButton != null)
+            {
+                Device_InfoL.Text = $"Name: {NetworkUtility.GetHostNameFromIP(clickedButton.Text)}\nIP: {clickedButton.Text}\nPlatform: {null}\nOS: {0}";
+            }
         }
 
 
